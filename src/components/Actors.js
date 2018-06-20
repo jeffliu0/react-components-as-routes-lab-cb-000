@@ -4,7 +4,10 @@ import { actors } from '../data';
 const Actors = () => {
   return (
     <div>
+<<<<<<< HEAD
       <h1>Actors Page</h1>
+=======
+>>>>>>> fc4bcb040c42e4a94bc331be4672cfa984ba077c
       {
       	actors.map(
     			(actor,i) =>
